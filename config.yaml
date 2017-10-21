@@ -1,0 +1,7 @@
+name: jnuccxw
+libraries:
+- name: webpy
+  version: "0.36"
+- name: lxml
+  version: "2.3.4"
+version: 1

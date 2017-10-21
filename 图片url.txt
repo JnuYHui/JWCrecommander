@@ -1,0 +1,4 @@
+大图 ： <a data-flickr-embed="true"  href="https://www.flickr.com/photos/152792160@N03/36185490713/in/album-72157688507588065/" title="news_big2"><img src="https://farm5.staticflickr.com/4411/36185490713_778cab2ae2_o.png" width="1920" height="1093" alt="news_big2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+小图 ： <a data-flickr-embed="true"  href="https://www.flickr.com/photos/152792160@N03/36596698940/in/album-72157688507588065/" title="news_min"><img src="https://farm5.staticflickr.com/4342/36596698940_50d761cc0b_o.png" width="252" height="200" alt="news_min"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
